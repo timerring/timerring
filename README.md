@@ -5,6 +5,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timerring&langs_count=8&theme=vue&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=250" />
 </a>
 
+<div align="center">
+	<img src="https://stats.justsong.cn/api/csdn?id=m0_52316372">
+</div>
+
+
 **Skills:**
 
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg"></code>
