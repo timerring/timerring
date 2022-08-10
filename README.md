@@ -17,16 +17,16 @@ Let's now contribute some to Open-source, will now make repo's here on Github fo
 
 
 ## Stats  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=timerring&count_private=true&show_icons=true&theme=vue" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timerring&langs_count=8&theme=vue&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=250" />
-</a>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=timerring&count_private=true&show_icons=true&hide_border=true&theme=vue"  width="58%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timerring&langs_count=10&theme=vue&count_private=true&layout=compact&hide_border=true" width="37%" />
+</p>
+
+
 
 <div align="center">
-	<img src="https://stats.justsong.cn/api/csdn?id=m0_52316372">
-	<img src="https://stats.justsong.cn/api/leetcode?username=timerring&cn_username=timerring">
+	<img src="https://stats.justsong.cn/api/csdn?id=m0_52316372&theme=light" width="49%">
+	<img src="https://stats.justsong.cn/api/leetcode?username=timerring&cn_username=timerring&theme=light" width="49%">
 </div>
 
 
