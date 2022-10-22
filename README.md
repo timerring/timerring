@@ -1,13 +1,11 @@
 ## <h1 align="center">Hi 👋, I'm John Howard</h1>
 <p align="center">Python Programmer | Web Developer | Data Science Enthusist | Blogger | Math Lover | Student</p> 
 
-Hey guys,Thanks for stopping by! I am a passionate developer, currently studying at the Institute of Information Science and Engineering of Shandong University, involving in CV, DL, blockchain, web development, hardware development, 5G communication, which interests me.
+Hey guys, I am a passionate developer, currently studying at the Institute of Information Science and Engineering of Shandong University, involving in CV, DL, blockchain, web development, hardware development, 5G communication, which interests me.
 
-I believe a good learner is one who can interpret knowledge in the best possible way. So I create content on Twitter about my new experiences and make <a href="https://timerring.blog.csdn.net/">tech blogs</a> on CSDN. Sharing knowledge with development partners also deepened my understanding of it, but previous projects were mostly single-person development, so my Github was like unused 🥲.
+I believe a good learner is one who can interpret knowledge in the best possible way. So I create content on Twitter about my new experiences and make <a href="https://timerring.blog.csdn.net/">tech blogs</a> on CSDN. Sharing knowledge with development partners also deepened my understanding of it.
 
-Let's now contribute some to Open-source, will now make repo's here on Github for my future Projects.Thanks for every star🌟 for the repositories you found useful
-
-- 📚  **I’m currently learning Data Structures & Algorithms**
+- 📚  **I’m currently learning Opencv**
 
 - 🤔  **I keep interests in Technical Writing & Research**
 
