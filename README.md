@@ -5,11 +5,11 @@ Hey guys, I am a passionate developer, currently studying at the Institute of In
 
 I believe a good learner is one who can interpret knowledge in the best possible way. So I create content on Twitter about my new experiences and make <a href="https://timerring.blog.csdn.net/">tech blogs</a> on CSDN. Sharing knowledge with development partners also deepened my understanding of it.
 
-- 📚  **I’m currently learning Opencv**
+- 📚  **I’m currently learning OpenCV**
 
 - 🤔  **I keep interests in Technical Writing & Research**
 
-- ⚙  **I'm also enthusiastic about Data Analysis and CV** 
+- ⚙  **I'm also enthusiastic about Data Analysis and Vision** 
   
 - 📃 **I Write blogs on CSDN and you can check it out on [timerring's Blog](https://timerring.blog.csdn.net/)**
 
@@ -24,7 +24,7 @@ I believe a good learner is one who can interpret knowledge in the best possible
 
 <div align="center">
 	<img src="https://stats.justsong.cn/api/csdn?id=m0_52316372&theme=light" width="49%">
-	<img src="https://stats.justsong.cn/api/leetcode?username=timerring&cn_username=timerring&theme=light" width="49%">
+	<img src="https://stats.justsong.cn/api/leetcode?username=timerring&cn=true&theme=light" width="49%">
 </div>
 
 
