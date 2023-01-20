@@ -3,8 +3,6 @@
 
 Hey guys, I am a passionate developer, currently studying at the Institute of Information Science and Engineering of Shandong University, involving in CV, DL, blockchain, web development, hardware development, 5G communication, which interests me.
 
-I believe a good learner is one who can interpret knowledge in the best possible way. So I create content on Twitter about my new experiences and make <a href="https://timerring.blog.csdn.net/">tech blogs</a> on CSDN. Sharing knowledge with development partners also deepened my understanding of it.
-
 - 📚  **I’m currently learning OpenCV**
 
 - 🤔  **I keep interests in Technical Writing & Research**
