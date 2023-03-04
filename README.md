@@ -9,7 +9,7 @@ Hey guys, I am a passionate developer, currently studying at the Institute of In
 
 - ⚙  **I'm also enthusiastic about Data Analysis and Vision** 
   
-- 📃 **I Write blogs on CSDN and you can check it out on [timerring's Blog](https://timerring.blog.csdn.net/)**
+- 📃 **I Write blogs and you can check it out on [timerring's Blog](https://timerring.blog.csdn.net/) or [my personal website](http://www.timerring.me/)**
 
 
 ## Stats  
