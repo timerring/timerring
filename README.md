@@ -1,7 +1,7 @@
 ## <h1 align="center">Hi 👋, I'm John Howard</h1>
 <p align="center">Python Programmer | Web Developer | Data Science Enthusist | Blogger | Math Lover | Student</p> 
 
-Hey guys, I am a passionate developer, currently studying at Shandong University, involving in CV, DL, blockchain, web development, hardware development which interest me.
+A passionate developer, currently studying at Shandong University, involving in CV, DL, blockchain, web development, hardware development which interest me.
 
 - 📚  **I’m currently learning OpenCV**
 
