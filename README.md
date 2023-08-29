@@ -3,14 +3,6 @@
 
 A passionate developer, currently studying at Shandong University, involving in CV, DL, blockchain, web development, hardware development which interest me.
 
-- 📚  **I’m currently learning OpenCV**
-
-- 🤔  **I keep interests in Technical Writing & Research**
-
-- ⚙  **I'm also enthusiastic about Data Analysis and Vision** 
-  
-- 📃 **I write blogs and you can check it out on [timerring's Blog](https://timerring.blog.csdn.net/) or [my personal website](http://www.timerring.me/)**
-
 
 ## Stats  
 <p>
