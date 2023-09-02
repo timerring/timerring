@@ -11,13 +11,6 @@ A passionate developer, currently studying at Shandong University, involving in 
 </p>
 
 
-
-<div align="center">
-	<img src="https://stats.justsong.cn/api/csdn?id=m0_52316372&theme=light" width="49%">
-	<img src="https://stats.justsong.cn/api/leetcode?username=timerring&cn=true&theme=light" width="49%">
-</div>
-
-
 ## My Skill Set  
 <br>
 <p align="left"> 
