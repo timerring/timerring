@@ -1,4 +1,4 @@
-## <h1 align="center">Hi 👋, I'm John Howard</h1>
+## <h1 align="center">Hi 👋, I'm Jong Howe</h1>
 <p align="center">Python Programmer | Web Developer | Data Science Enthusist | Blogger | Math Lover</p> 
 
 A passionate developer, currently studying at Shandong University, involving in CV, DL, blockchain, web development which interest me.
