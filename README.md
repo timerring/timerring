@@ -1,5 +1,5 @@
 ## <h1 align="center">Hi 👋, I'm Jong Howe</h1>
-<p align="center">Python Programmer | Web Developer | Blogger | Math Lover</p> 
+<!-- <p align="center">Python Programmer | Web Developer | Blogger | Math Lover</p> -->
 
 ## Stats  
 <p>
