@@ -1,11 +1,8 @@
 ## <h1 align="center">Hi 👋, I'm Jong Howe</h1>
-<!-- <p align="center">Python Programmer | Web Developer | Blogger | Math Lover</p> -->
 
-## Stats  
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=timerring&count_private=true&show_icons=true&hide_border=true&theme=vue"  width="58%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timerring&langs_count=10&exclude_repo=timerring.github.io&theme=vue&count_private=true&layout=compact&hide_border=true" width="37%" />
-</p>
+## Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=timerring&count_private=true&show_icons=true&hide_border=true&theme=vue"/>
 
 ## Connect with me  
 <div align="center">
