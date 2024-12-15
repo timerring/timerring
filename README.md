@@ -1,4 +1,4 @@
-## <h1 align="center">Hi 👋, I'm Jong Howe</h1>
+## <h1 align="center">Hi 👋, I'm John Howe</h1>
 
 ## Stats
 
