@@ -1,8 +1,14 @@
 ## <h1 align="center">Hi 👋, I'm John Howe</h1>
 
+<div align="center">
+<a href="https://trendshift.io/developers/8761" target="_blank"><img src="https://trendshift.io/api/badge/developers/8761" alt="timerring | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+</div> 
+
 ## Stats
 
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=timerring&count_private=true&show_icons=true&hide_border=true&theme=vue"/>
+</div> 
 
 ## Connect with me  
 <div align="center">
