@@ -1,10 +1,10 @@
 ## <h1 align="center">Hi 👋, I'm John Howe</h1>
 
+## Stats
+
 <div align="center">
 <a href="https://trendshift.io/developers/8761" target="_blank"><img src="https://trendshift.io/api/badge/developers/8761" alt="timerring | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 </div> 
-
-## Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=timerring&count_private=true&show_icons=true&hide_border=true&theme=vue"/>
@@ -15,7 +15,7 @@
 <a href="https://github.com/timerring" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/timerring_" target="_blank">
+<a href="https://twitter.com/" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href=" ">
