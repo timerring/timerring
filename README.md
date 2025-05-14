@@ -21,6 +21,9 @@
 <a href="https://medium.com/@timerring" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
+<a href="https://blog.timerring.com/" target="_blank">
+<img src=https://img.shields.io/badge/-My%20Blog-000000?style=for-the-badge&logo=hugo&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>
 <a href=" ">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
