@@ -15,8 +15,8 @@
 <a href="https://github.com/timerring" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<a href="https://x.com/" target="_blank">
+<img src="https://img.shields.io/badge/X%20(Twitter)-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (formerly Twitter)" style="margin-bottom: 5px;" />
 </a>
 <a href="https://medium.com/@timerring" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
