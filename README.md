@@ -41,6 +41,9 @@
 |[bilitool](https://github.com/timerring/bilitool): Following the MVC architecture, designed a cli toolkit as library featuring functions such as persistent login, authentication, video download, status query, upload and more via the public reverse API. [![bilitool](https://img.shields.io/github/stars/timerring/bilitool?style=social&logoColor=343b41)](https://github.com/timerring/bilitool)|
 |[DanmakuConvert](https://github.com/timerring/DanmakuConvert): Supports the conversion of XML type information into SSA-V4 standard files. Designed a more eﬀicient danmaku arrangement algorithm, along with the flexible superchat box. Supported the adaptive layout for different resolutions and also enables the information rendering in multiple modes. [![DanmakuConvert](https://img.shields.io/github/stars/timerring/DanmakuConvert?style=social&logoColor=343b41)](https://github.com/timerring/DanmakuConvert)|
 |[looplive](https://github.com/timerring/looplive): The Python toolkit package and cli designed for 24/7 automated multi-platform parallel loop live streaming. [![looplive](https://img.shields.io/github/stars/timerring/looplive?style=social&logoColor=343b41)](https://github.com/timerring/looplive)|
+|[actions-gh-pages](https://github.com/timerring/actions-gh-pages): This is a adjusted version of `peaceiris/actions-gh-pages`, combining with `crazy-max/ghaction-import-gpg` to enable the deployment of GitHub Pages with GPG verification. [![actions-gh-pages](https://img.shields.io/github/stars/timerring/actions-gh-pages?style=social&logoColor=343b41)](https://github.com/timerring/actions-gh-pages)|
+|[json-formatter](https://github.com/timerring/json-formatter): Format JSON string to conform to the standard display format. Visit at https://json.timerring.com [![json-formatter](https://img.shields.io/github/stars/timerring/json-formatter?style=social&logoColor=343b41)](https://github.com/timerring/json-formatter)|
+
 
 
 ## Visitor count
