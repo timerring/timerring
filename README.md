@@ -32,7 +32,7 @@
 </a>
 </div>  
 
-## Hope you like them
+## Inspiration
 
 |Projects|
 |:---|
