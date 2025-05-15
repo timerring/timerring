@@ -38,6 +38,9 @@
 |:---|
 |[bilive](https://github.com/timerring/bilive): **B**ilibili **I**ntelligent **L**ive-**I**n **V**elocity **E**ngine. Extremely fast live recording, automatic slicing, rendering, uploading and Integrating MLLMs. Compatible with low configurations machines.  [![bilive](https://img.shields.io/github/stars/timerring/bilive?style=social&logoColor=343b41)](https://github.com/timerring/bilive)|
 |[auto-slice-video](https://github.com/timerring/auto-slice-video): Designed the toolkit package of auto slicing the highlight shorts based on the density of danmaku using the sliding window method. Support Nvidia cuda-accelerated computing. [![auto-slice-video](https://img.shields.io/github/stars/timerring/auto-slice-video?style=social&logoColor=343b41)](https://github.com/timerring/auto-slice-video)|
+|[bilitool](https://github.com/timerring/bilitool): Following the MVC architecture, designed a cli toolkit as library featuring functions such as persistent login, authentication, video download, status query, upload and more via the public reverse API. [![bilitool](https://img.shields.io/github/stars/timerring/bilitool?style=social&logoColor=343b41)](https://github.com/timerring/bilitool)|
+
+
 
 ## Visitor count
 <p align="center"> 
