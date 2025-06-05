@@ -19,7 +19,7 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
 <a href="https://blog.timerring.com/" target="_blank">
-<img src=https://img.shields.io/badge/-My%20Blog-000000?style=for-the-badge&logo=hugo&logoColor=white alt=medium style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/-My%20Blog-000000?style=for-the-badge&logo=hugo&logoColor=white alt=myblog style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/john-howe-zh/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -28,7 +28,7 @@
 <img src=https://img.shields.io/badge/zhihu-%231872F6.svg?&style=for-the-badge&logo=zhihu&logoColor=white alt=zhihu style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/19513967/timerring" target="_blank">
-<img src=https://img.shields.io/badge/-Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white alt=zhihu style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/-Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 </div>  
 
