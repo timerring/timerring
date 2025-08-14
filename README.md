@@ -63,7 +63,6 @@
 |[dive-into-AI](https://github.com/timerring/dive-into-AI) [Chinese]: Python and pytorch tutorials based on quick-start practical projects even start from zero.  [![dive-into-AI](https://img.shields.io/github/stars/timerring/dive-into-AI?style=social&logoColor=343b41)](https://github.com/timerring/dive-into-AI) |
 |[rag101](https://github.com/timerring/rag101) [English]: LangChain and RAG best practices. A quick start guide essay for LangChain and RAG which mainly refers to `the Langchain chat with your data` course from Deeplearning.AI.  [![rag101](https://img.shields.io/github/stars/timerring/rag101?style=social&logoColor=343b41)](https://github.com/timerring/rag101) |
 
-## Visitor count
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/timerring/count.svg" />
-</p>
+## Thanks for your Sponsorship 
+
+Solana Address: timerring.sol
