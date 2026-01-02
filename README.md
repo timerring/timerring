@@ -1,4 +1,4 @@
-## <h1 align="center">Hi 👋, I'm John Howe</h1>
+## <h1 align="center">Hi 👋, I'm Neo</h1>
 
 ## Stats
 
@@ -7,7 +7,7 @@
 </div> 
 
 <div align="center">
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=timerring&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=vue"/>
+<img src="https://github-readme-stats-pearl-eight-68.vercel.app/api?username=timerring&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=vue"/>
 </div> 
 
 ## Connect with me  
