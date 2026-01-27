@@ -21,7 +21,7 @@
 <a href="https://blog.timerring.com/" target="_blank">
 <img src=https://img.shields.io/badge/-My%20Blog-000000?style=for-the-badge&logo=hugo&logoColor=white alt=myblog style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/john-howe-zh/" target="_blank">
+<a href="https://www.linkedin.com/in/zhong-hao/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.zhihu.com/people/timerring" target="_blank">
