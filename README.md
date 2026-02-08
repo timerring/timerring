@@ -27,7 +27,7 @@
 <a href="https://www.zhihu.com/people/timerring" target="_blank">
 <img src=https://img.shields.io/badge/zhihu-%231872F6.svg?&style=for-the-badge&logo=zhihu&logoColor=white alt=zhihu style="margin-bottom: 5px;" />
 </a>
-<a href="https://cdn.jsdelivr.net/gh/timerring/scratchpad2023/2024/2025-06-13-23-14-18.png" target="_blank">
+<a href="https://cdn.jsdelivr.net/gh/timerring/scratchpad2023/2026/2026-02-08-13-36-27.png" target="_blank">
 <img src=https://img.shields.io/badge/-WeChat%20Official-07C160?style=for-the-badge&logo=wechat&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 </div>  
