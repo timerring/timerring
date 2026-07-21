@@ -7,7 +7,7 @@
 </div> 
 
 <div align="center">
-<img src="https://github-readme-stats-pearl-eight-68.vercel.app/api?username=timerring&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=vue"/>
+<img src="https://github-stats-extended-weld.vercel.app/api?username=timerring&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=vue"/>
 </div> 
 
 ## Connect with me  
